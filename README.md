@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=230&section=header&text=⚡%20HUST%20Automation%20x%20Cybersecurity%20⚡&fontSize=30&fontAlignY=40&animation=fadeIn&desc=Student%20%7C%20Hacker%20Mindset%20%7C%20Automation%204.0&descSize=16&fontColor=00ffcc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=230&section=header&text=⚡%20Nguyễn%20Lê%20Hoàng%20⚡&fontSize=30&fontAlignY=40&animation=fadeIn&desc=HUST%20Automation%20%7C%20Cybersecurity%20%7C%20Hacker%20Mindset&descSize=16&fontColor=00ffcc)
 
 # 👨‍🎓 About Me
 🎓 **Sinh viên Kỹ thuật Điều khiển & Tự động hóa – HUST**  
