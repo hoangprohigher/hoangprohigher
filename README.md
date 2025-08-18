@@ -58,7 +58,7 @@
   <a href="https://github.com/hoangprohigher" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-hoangprohigher-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:contact@hust.edu.vn">
+  <a href="mailto:hoang.nl230321p@sis.hust.edu.vn">
     <img src="https://img.shields.io/badge/Email-contact%40hust.edu.vn-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
