@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=230&section=header&text=⚡%20Nguyễn%20Lê%20Hoàng%20⚡&fontSize=30&fontAlignY=40&animation=fadeIn&desc=HUST%20Automation%20%7C%20Cybersecurity%20%7C%20Hacker%20Mindset&descSize=16&fontColor=00ffcc)
 
 # 👨‍🎓 About Me
-🎓 **Sinh viên Kỹ thuật Điều khiển & Tự động hóa – HUST**  
-🛡️ Chứng chỉ đã đạt: **CCNA | CEH | OSCP (PEN-200)**  
-💀 Phong cách: **Cybersecurity + Automation Engineering**  
-⚡ Đam mê: **IoT, Robotics, Hệ thống nhúng, Cloud & An ninh mạng**  
+🎓 Sinh viên **Kỹ thuật Điều khiển & Tự động hóa – HUST**  
+🛡️ Chứng chỉ: **CCNA | CEH | OSCP (PEN-200)**  
+⚡ Đam mê **IoT, Robotics, Embedded Systems, Automation & Cybersecurity**  
 🧠 Tư duy: *"Think like an Engineer, Act like a Hacker"*  
 
 ---
@@ -12,6 +11,10 @@
 ## 🛠️ Cyber Skills & Tools
 
 ### 🔒 Cybersecurity
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="120" alt="hacker typing"/>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-Networking-00ffcc?style=for-the-badge&logo=cisco&logoColor=black" />
   <img src="https://img.shields.io/badge/CEH-Ethical%20Hacker-ff0033?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -26,13 +29,17 @@
 
 ### ⚙️ Automation & Control Engineering
 <p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYp7zB0bGc1RYY/giphy.gif" width="160" alt="robot arm"/>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,java,ts,react,nextjs,nodejs" />
 </p>
 
-- ⚡ **Điều khiển tự động, PLC, Robotics**  
-- ⚡ **Hệ thống nhúng & IoT**  
-- ⚡ **VMware, vSphere, Windows Server Configuration**  
-- ⚡ **AI & Automation 4.0**  
+- ⚡ Điều khiển tự động, PLC, Robotics  
+- ⚡ Hệ thống nhúng & IoT  
+- ⚡ VMware, vSphere, Windows Server Configuration  
+- ⚡ AI & Automation 4.0  
 
 ---
 
@@ -44,7 +51,7 @@
 
 ---
 
-## 🐍 Cyber Snake (Matrix Mode)
+## 🐍 Cyber Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
@@ -66,3 +73,4 @@
 
 ---
 
+⭐️ *Sinh viên Tự động hóa HUST – kết hợp Điều khiển, Tự động hóa và An ninh mạng để hướng tới Công nghiệp 4.0!* ⭐️
