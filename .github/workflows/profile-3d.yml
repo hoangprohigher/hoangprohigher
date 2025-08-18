@@ -1,9 +1,9 @@
 name: Generate 3D Contribution Graph
 
 on:
-  workflow_dispatch:   # cho phép chạy thủ công
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # chạy mỗi ngày 0h
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -15,12 +15,13 @@ jobs:
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          USERNAME: hoangprohigher   # 👈 quan trọng, thay bằng username của bạn
+          USERNAME: hoangprohigher
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 👈 quan trọng
 
       - name: Commit & Push
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A .
-          git commit -m "generated 3d contribution graph"
+          git commit -m "generated 3d contribution graph" || echo "No changes to commit"
           git push
