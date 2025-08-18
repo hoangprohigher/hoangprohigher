@@ -12,10 +12,6 @@
 
 ### 🔒 Cybersecurity
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="120" alt="hacker typing"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/CCNA-Networking-00ffcc?style=for-the-badge&logo=cisco&logoColor=black" />
   <img src="https://img.shields.io/badge/CEH-Ethical%20Hacker-ff0033?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/OSCP-PEN200-ff6600?style=for-the-badge&logo=offensive-security&logoColor=white" />
@@ -28,10 +24,6 @@
 ---
 
 ### ⚙️ Automation & Control Engineering
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYp7zB0bGc1RYY/giphy.gif" width="160" alt="robot arm"/>
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,java,ts,react,nextjs,nodejs" />
 </p>
